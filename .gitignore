@@ -2,5 +2,4 @@
 /venv/
 .DS_Store
 .idea
-setup.py
 Terminal_Colours.egg-info
