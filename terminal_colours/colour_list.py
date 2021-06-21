@@ -1,6 +1,10 @@
 
+
 class TerminalColours:
     # Treatment
+    def __init__(self):
+        pass
+
     default = "\033[0m"
     bold = "\033[1m"
     dim = "\033[2m"
@@ -12,7 +16,7 @@ class TerminalColours:
     # Foreground
     black = "\033[30m"
     red = "\033[31m"
-    Green = "\033[32m"
+    green = "\033[32m"
     yellow = "\033[33m"
     blue = "\033[34m"
     magenta = "\033[35m"
